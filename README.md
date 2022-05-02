@@ -1,1 +1,1 @@
-# STAR-RNA-seq
+# STAR RNA seq
