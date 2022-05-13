@@ -25,8 +25,8 @@ then
     for i in $(seq 1 ${number_of_samples})
         do
 
-        read1="${sample_directory}/${name_of_sample}_${i}_read_1.fastq"
-        read2="${sample_directory}/${name_of_sample}_${i}_read_2.fastq"
+        read1="${sample_directory}/${name_of_sample}_${i}_read_1.fq.gz"
+        read2="${sample_directory}/${name_of_sample}_${i}_read_2.fq.gz"
         echo "Running STAR aligner for ${read1} and ${read2}."
         sleep 1
 

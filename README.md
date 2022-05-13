@@ -8,12 +8,12 @@ home
     └── Documents
         ├── Input_fastq
         │   └──Sample_directory_name
-        │       ├──sample_1_read_1.fastq
-        │       ├──sample_1_read_2.fastq
-        │       ├──sample_2_read_1.fastq
-        │       ├──sample_2_read_2.fastq
-        │       ├──sample_3_read_1.fastq
-        │       └──sample_3_read_2.fastq
+        │       ├──sample_1_read_1.fq.gz
+        │       ├──sample_1_read_2.fq.gz
+        │       ├──sample_2_read_1.fq.gz
+        │       ├──sample_2_read_2.fq.gz
+        │       ├──sample_3_read_1.fq.gz
+        │       └──sample_3_read_2.fq.gz
         │
         └── STAR_outputs
             └──Output_directory_name
