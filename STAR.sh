@@ -4,7 +4,7 @@ sample_directory=$1
 name_of_sample=$2
 number_of_samples=$3
 output_directory=$4
-genomeDir="/home/rtlab/Documents/Genomes/genome_indices/star_hg38"
+genomeDir="/home/rtlab/Genomes/genome_indices/star_ensembl_hg38"
 
 echo "The directory containing these set of samples is ${sample_directory}."
 echo "The sample group you are running STAR aligner for is ${name_of_sample}"

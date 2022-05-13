@@ -22,7 +22,7 @@ home
                 └──sample_3_outputs
 
 ```
-This repository contains the usage instructions of running STAR with the the all in one `STAR.sh` bash script.
+This repository contains the usage instructions of running STAR with the all in one `STAR.sh` bash script.
 
 For more information about STAR, you may refer to their [official Github](https://github.com/alexdobin/STAR).
 
@@ -47,7 +47,7 @@ This should be where all the fastq files for this batch of RNA-seq experiments a
 
 2. name_of_sample: `Sample_Gene_A_KO` or `Sample_Gene_A_WT`
 
-3. name_of_sample: `3` oe `4` depending on how many samples you have per condition.
+3. name_of_sample: `3` or `4` depending on how many samples you have per condition.
 
 4. output_directory `/home/rtlab/Documents/STAR_outputs/Sample_Gene_A_KO_vs_WT`.
 This would be where STAR outputs its results and each result will be prefixed with its sample name and sample index.
