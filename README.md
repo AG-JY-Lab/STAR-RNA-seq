@@ -5,8 +5,8 @@
 ```bash
 home
 └──rtlab
-    └── Documents
-        ├── Input_fastq
+    └──Documents
+        ├──Input_fastq
         │   └──Sample_directory_name
         │       ├──sample_1_read_1.fq.gz
         │       ├──sample_1_read_2.fq.gz
@@ -15,7 +15,7 @@ home
         │       ├──sample_3_read_1.fq.gz
         │       └──sample_3_read_2.fq.gz
         │
-        └── STAR_outputs
+        └──STAR_outputs
             └──Output_directory_name
                 ├──sample_1_outputs
                 ├──sample_2_outputs
